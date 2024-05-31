@@ -1,16 +1,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: sample-app
+  name: my-cluster
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: sample-app
+      app: my-cluster
   template:
     metadata:
       labels:
-        app: sample-app
+        app: my-cluster
     spec:
       containers:
       - name: my-cluster
