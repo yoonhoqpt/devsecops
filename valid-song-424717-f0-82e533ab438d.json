@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "valid-song-424717-f0",
+  "private_key_id": "82e533ab438d4c6f80630a908c38c8543fd730f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCjquWyyZyAv4zY\nfhtQ1Oc9JO5c/GoopKfNKEomsXY9Z9rgHwPHvmVfCmw5Tc1doPAeghUKz7W8L0Hv\nXCpcvkhl0SDabhZc9GVwBw9WULMKtPk1VJ41i6DufhSD308yoM8OOvSX+kGnBJie\nXl3DG81Xf1i+ZAHr859zidC1QM1PwhHO3GaDjFCfnqqRUxclYxyPb0/3Iq6c2qk8\npQ8FeOagC15ffTnAzRXX/I2hMjyUGgbpXqL9I1mxEEmQPutRv6z/pvBODvTbQy2P\nKsIxA4nPUezkse1Sp4oE1WOspVtiXQoX0Y6pSdddZBOJDIYEoBHn8YXrxh366bKS\nulnFHGPlAgMBAAECgf9ddx8lFqSRwHkCB+DUWRo6k5Q+LNyfnAQhjrmodWHIbK2t\nyks3Z9cjJw3TUrbZCZqGFGpUCpgoBpIKlDkBIdXoe82EanAjTGM9LPd5b0Nrsu3V\n5XdSolnFJrWmxgcKmjpAOaJ05ThK9us8ZC0cT51H8LnvTkOeKAJyNflvGa5/A9SK\nX3ILIAxm3pjNCmwPMHHEOobrxuCTvBgMWpYoXRVecdDKhzE91GuR+InK4l9tPiiA\nNCHTaRl/xp8O/9Es3Jy++UrBcHYs4qh3WgpFheioBHcI5Bg2l2C1s0fMOOc/FMaA\ndy4vlSatuv24spRJbPmA1sgDxMta9zp/wx5ZWcECgYEA2s67tfUUOB0FYK9TqCoW\nWlD/7eIkTs5kOekKq5Y6aex2YejgFSopvLfMLQgcBA1L5qAintidIg+r+v0HPVrL\nBqGW+pP5bkSN1GIKUh8bBachiarRkQkI+Jtbad+IcTBCsYMhwhgMjIJtAv9hb6oF\n9MvvOePbYrIMntmaW+MNI6ECgYEAv3zIqliOi+t26pt8PrpaYVOtkLfru2w+hQYm\n9j0LgxH6EsbKPjrvKSVxUeZYlijYEKu6IKQp/1+aEy0QJ8cYzgjofnrx23evb2aX\nMgiMHdLR4in8/SDKafr71tI1iOAYjodSccdxYxCx1AT6sQwPs49fojRA3mS63D7B\nkfV9WcUCgYAyQCY17Jn/JRMWGE3jIf9OMKoGLNhfzOCRuCZ+L5sstmSdqcjEs5Ew\nSRm4AdPFTnRu+7nXtzGnH+hEVRXzjkVwOW4eEBvJqi7UZsut/nzLOI3oOvW0FFoe\nFjfRQcfpDsdSUyZOmA1Ru6ZjeNkctvR1Otyu89hveyqQ1LKxhZx/4QKBgDZhhct6\n4uCxuk/eYGagHdLOJNiYowXTM94rZR1BMOfETzTN59nMeudAjvInbLkYWGRDoNRs\nStEPoX4YqiHh1RWOShjBabZeQyBsDjxTWRePK7QDIKnyigmXEbZsdG+u1MqFe9B8\nR6NOtnH0CA4H0t23tf0mwdVm3fp2iBqfkT3RAoGAENvhoAjxv4aa/DeYXMlv6WG5\nP205l/2mjsbUz5GA2+H7bVNiXVxu1CiR0dd1fEBWhX5Vm77xkI5Hmog9vuxQlK5a\neSjAOgeF9rUoj49R70qcHuBkPu1Phu94TMXNpwXWOAQy9iMPZ++GFMQ8lxUJWf8v\nbYv/K0jtmv+hfqkjOBw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kubernetes-engine-admin@valid-song-424717-f0.iam.gserviceaccount.com",
+  "client_id": "114433746551958926825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kubernetes-engine-admin%40valid-song-424717-f0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
